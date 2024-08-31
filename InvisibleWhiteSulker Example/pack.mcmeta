@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "pack_format": 38,
+        "description": [
+            {
+                "text": "Shadery Wizzardy Stuffs\n",
+                "color": "dark_purple",
+                "font": "minecraft:default",
+                "bold": true,
+                "italic": true,
+                "underlined": true,
+                "strikethrough": true
+            }
+        ]
+    }
+}

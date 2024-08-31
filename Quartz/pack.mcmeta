@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 38,
+        "description": [
+            {
+                "text": "Transparency for solid entities!\n",
+                "color": "gold",
+                "font": "minecraft:default",
+                "bold": true,
+            }
+        ]
+    }
+}
