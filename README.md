@@ -28,3 +28,5 @@ Here is a list of the entities which it can be used on:
 If you find another entity or block you want to make transparent, make an issue and I'll try to fix it :P
 
 ![An image showing a transparent shulker](images/2024-08-31_20.02.12.png)
+
+Theblackswitch © 2024
