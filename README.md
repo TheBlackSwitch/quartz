@@ -8,7 +8,7 @@ PS: this is my first shader project so be nice and don't complain it's so simple
 
 ## how it works:
 
-This pack allows for making solid entities, like the shulker head transparent by giving them a specific color: #010203 or rgb(1,2,3)
+This pack allows for making solid entities, like the shulker head transparent by giving them an alpha color of 1 / 255
 
 Here is a list of the entities which it can be used on:
 - The base (not flag) of banners,
